@@ -1,4 +1,4 @@
-QUestion 2;
+QUESTION 2;
 List five significant features of React
 a. JSX - JavaScript Syntax Extension
 b. Unidirectional data Flow and Flux
